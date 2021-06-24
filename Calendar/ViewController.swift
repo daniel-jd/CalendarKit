@@ -6,8 +6,9 @@
 //
 
 import UIKit
+import CalendarKit
 
-class ViewController: UIViewController {
+class ViewController: DayViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
